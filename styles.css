@@ -235,13 +235,13 @@ body{
 
     /* ------------------------------- MAIN -------------------------------- */
     .main{
-        /* padding-top: 110px; */
+        
         display: flex;
 
     }
 .container{
     width: 100%;
-    /* max-width: 120rem; */
+    
     margin: auto;
     padding: 0 1.5rem;
 }
@@ -266,8 +266,7 @@ body{
     align-items: center;
     justify-content: center;
     text-decoration: none;
-    /* border: 1px solid rgba(72, 43, 92, .1);
-    box-shadow: 2px 2px 2px 2px rgba(26, 25, 25, 0.207); */
+   
 
 
 }
@@ -404,43 +403,6 @@ body{
 }
 
 
-/* -------------------------------  @media 1200px  -------------------------------- */
-
-
-
-/* @media screen and (max-width: 1200px) {
-  
-  .toggle-button{
-      display: flex;
-  }
-  .nav-links{
-      display: none;
-  }
-}
-.navbar{
-    flex-direction: column;
-    
-}
-.nav-links ul{
-    flex-direction: column;
-} */
-/* ------------------------------ */
-/* @media screen and (max-width: 1200px) {
-  
-  .toggle-button{
-      display: flex;
-  }
-  .nav-links{
-      display: none;
-  }
-}
-.navbar{
-    flex-direction: column;
-    
-}
-.nav-links ul{
-    flex-direction: column;
-} */
 /* -------------------------------  @media 1100px  -------------------------------- */
 
 @media screen and (max-width: 1100px) {
@@ -457,12 +419,7 @@ body{
   .img-7{
       min-height: 51.5rem;
   }
-  /* .toggle-button{
-      display: flex;
-  }
-  .nav-links{
-      display: none;
-  } */
+ 
   .about h1{
     
     margin-top: 150px;
@@ -492,7 +449,6 @@ body{
 
 /* -------------------------------  @media 600px  -------------------------------- */
 
-/* @media 600px */
 
 @media screen and (max-width: 600px) {
     .image-gallery{
